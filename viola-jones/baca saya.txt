@@ -1,0 +1,2 @@
+ini adalah aplikasi sederhana untuk deteksi objek berupa hidung, mulut, mata, dan wajah menggunakan algoritma viola-jones menggunakan matlab.
+aplikasi ini juga tanpa proses preprosesing, jadi citra input langsung di proses ke algoritma viola-jones
